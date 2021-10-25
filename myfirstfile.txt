@@ -1,2 +1,3 @@
 First line is added with Text Editor.
 Second line is added with Atom.
+Third line is added with Atom in a new branch.
